@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "node": {
+                "label": ["raw_dm", "raw_ae", "raw_sv", "raw_vs", "raw_lb", "dm", "ae", "sv", "tu", "tr", "lb", "pp", "rp", "vs", "se", "tv", "ta"],
+                "color": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+            },
+            "link": {
+                "source": ["raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_dm", "raw_vs", "raw_vs", "raw_vs", "raw_vs", "raw_vs", "raw_vs", "raw_vs", "raw_ae", "raw_ae", "raw_ae", "raw_ae", "raw_ae", "raw_lb", "raw_lb", "raw_lb", "raw_lb", "raw_lb"],
+                "target": ["dm", "ae", "sv", "tu", "tr", "lb", "pp", "rp", "vs", "se", "tv", "ta", "ta", "sv", "dm", "ae", "lb", "pp", "vs", "ae", "lb", "sv", "vs", "dm", "lb", "pp", "dm", "ae", "vs"],
+                "value": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+                "color": ["Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow", "Blue", "Blue", "Blue", "Blue", "Blue", "Blue", "Blue", "Green", "Green", "Green", "Green", "Green", "Yellow", "Yellow", "Yellow", "Yellow", "Yellow"]
+            }
+        }
+    ]
+}
